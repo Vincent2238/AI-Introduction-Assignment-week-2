@@ -1,1 +1,16 @@
+Project Summary: Clustering Student Learning Patterns (SDG 4 – Quality Education)
+In this project, we address Sustainable Development Goal 4: Quality Education by using unsupervised machine learning to understand student learning behaviors. Using sample data modeled on the Open University Learning Analytics Dataset, we applied K-Means Clustering to group students based on their academic performance (score), number of previous attempts, and studied credits.
+
+Our model identified three distinct clusters:
+
+High-performing students with minimal reattempts.
+
+Students with repeated attempts and low scores (at risk).
+
+Mid-level performers with variable study loads.
+
+These insights can help educational institutions provide personalized learning support, early intervention for struggling students, and better resource allocation — promoting more inclusive and equitable education.
+
+This solution demonstrates how AI can empower educators to make data-driven decisions that improve learning outcomes and support every student’s potential.
+
 
